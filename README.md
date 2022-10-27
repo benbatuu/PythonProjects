@@ -1,9 +1,8 @@
 # PythonBMICalculator
-BMI Calculator using Python (Feet and Inch Convert)
 
-## Using Pycharm for editor and this small project for my college project.
-
-### If you want to download the file or copy paste any editor. 
+BMI Calculator using Python (Feet and Inch Convert)<br>
+Using Pycharm for editor and this small project for my college project.<br>
+If you want to download the file or copy paste any editor. 
 
 # CODE 
 
